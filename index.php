@@ -60,7 +60,7 @@ Check out my CV and if you're hiring Frontend developer's Contact Me.
     <nav>
         <ul class="row between-xs">
         <!-- <li class="col-xs"><a href="#">Portfolio</a></li> -->
-            <li class="col-xs"><a href="cv.html">Curriculum Vitae</a></li>
+            <li class="col-xs"><a href="cv.php">Curriculum Vitae</a></li>
             <li class="col-xs"><a id="contact-link" href="#contact">Contact</a></li>
         </ul>
     </nav>
@@ -150,7 +150,7 @@ Check out my CV and if you're hiring Frontend developer's Contact Me.
      <div class="row">
          <div class="col-sm-6 col-xs-12">
              <h3>Cookies?</h3>
-     <p> If you want, I'll give you a cookie, and then you won't have to see my animated intro again.</p>
+         <p> If you want, I'll give you a cookie, and then you won't have to see my animated intro again.</p>
          </div>
          <div class="col-xs-6 col-sm-2 col-sm-offset-1">
          <a href="#" id="yes-cookie" class="button"><span class="top-line">Yes</span> never again</a>

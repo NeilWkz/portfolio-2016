@@ -1810,6 +1810,13 @@ svg#Layer_1 {
   position: relative;
 }
 
+.preload-bg {
+  position: absolute;
+  height: 0;
+  width: 0;
+  background-image: url(../images/blue-bg.jpg);
+}
+
 #hero.marquee.bg h1 {
   /* Fallback: assume this color ON TOP of image */
   color: #000;
@@ -1820,13 +1827,6 @@ svg#Layer_1 {
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
-}
-
-.preload-bg {
-  position: absolute;
-  height: 0;
-  width: 0;
-  background-image: url(../images/blue-bg.jpg);
 }
 
 #spotlight {
@@ -2135,6 +2135,7 @@ h3.col-header {
 @media only screen and (min-width: 75em) {
   .with-mast.content {
     margin-top: 100vh;
+    margin-bottom: 15vh;
   }
   .masthead .who {
     top: 40vh;

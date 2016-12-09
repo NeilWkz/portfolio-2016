@@ -31,7 +31,7 @@
         <div class="brdr-box"></div>
     </header>
 
-    <main class=" content">
+    <main class="content">
     <article>
         <div class="wrap container-fluid">
         <div class="row cv-head">

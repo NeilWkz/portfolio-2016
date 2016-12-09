@@ -59,7 +59,7 @@ Check out my CV and if you're hiring Frontend developer's Contact Me.
 <div class="col-xs-12 col-sm-6 col-sm-offset-2 co middle">
     <nav>
         <ul class="row between-xs">
-        <!-- <li class="col-xs"><a href="#">Portfolio</a></li> -->
+        <li class="col-xs"><a href="portfolio.php">Portfolio</a></li>
             <li class="col-xs"><a href="cv.php">Curriculum Vitae</a></li>
             <li class="col-xs"><a id="contact-link" href="#contact">Contact</a></li>
         </ul>

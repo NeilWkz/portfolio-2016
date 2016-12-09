@@ -1451,11 +1451,6 @@ body {
   color: #fff;
 }
 
-body h1,
-body h2 {
-  font-family: "Alfa Slab One", cursive;
-}
-
 body p {
   line-height: 1.64em;
   color: #fff;
@@ -1536,6 +1531,7 @@ h4 {
 
 .like-h3 {
   font-size: 1.5em;
+  font-family: "Alfa Slab One", cursive;
 }
 
 #container {
@@ -1681,6 +1677,7 @@ nav ul li {
 }
 
 #logo h1 {
+  font-family: "Alfa Slab One", cursive;
   font-size: 2em;
   line-height: 0.95em;
   color: #fff;
@@ -1719,6 +1716,7 @@ nav ul li {
   line-height: 3.9rem;
   color: #fff;
   letter-spacing: -1.8px;
+  font-family: "Alfa Slab One", cursive;
 }
 
 #hero .n {

@@ -34,6 +34,33 @@
     <main class="content">
     <article>
         <div class="wrap container-fluid">
+        <div class="row">
+            <div class="col-sm-12 col-md-10 col-md-offset-1">
+                <h1>My work Portfolio:</h1>
+            </div>
+            <!-- /.col-sm-12 col-md-10 col-md-offset-1 -->
+        </div>
+        <!-- /.row -->
+        <div class="row">
+            <div class="col-sm-6 col-md-5 col-md-offset-1">
+                 <article class="portfolio-entry">
+                     <img src="http://lorempixel.com/400/200" />
+                     <div class="entry-info"></div>
+                     <!-- /.entry-info -->
+                 </article>
+                 <!-- /.portfolio-entry -->
+            </div>
+            <!-- /.col-sm-6 col-md-5 col-md-offset-1 -->
+            <div class="col-sm-6 col-md-5">
+                 <article class="portfolio-entry">
+                     <img src="http://lorempixel.com/400/200" />
+                     <div class="entry-info"></div>
+                     <!-- /.entry-info -->
+                 </article>
+                 <!-- /.portfolio-entry -->
+            </div>
+            <!-- /.col-sm-6 col-md-5 -->
+        </div>
         </div> <!-- /wrap container-fluid -->
         </article>
     </main>

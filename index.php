@@ -7,7 +7,7 @@ if (isset($_COOKIE["noNeilsIntro"])|| isset($_GET['cv']) ) {
   $class ="brdr-black";
 }
 /*Check parameters played*/
-if (isset($_GET['cv']) && isset($_GET['contact']))  {
+if (isset($_GET['played']) && isset($_GET['contact']))  {
   $class ="brdr-black contact-go";
 }
 ?>

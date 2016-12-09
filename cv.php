@@ -6,7 +6,7 @@
             <div class="row">
                 <div class=" col-xs-12 col-sm-4 bottom">
                     <div id="logo" class="marquee">
-                        <h1><a href="index.php?cv=true">
+                        <h1><a href="index.php?played=true">
                         <!-- words span wrapped for control -->
                             <span class="n">Neil</span>
                             <span class="r">Ross</span>
@@ -21,7 +21,7 @@
                         <ul class="row between-xs">
                            <!--  <li class="col-xs"><a href="#">Portfolio</a></li> -->
                             <li class="col-xs"><a href="cv.html">Curriculum Vitae</a></li>
-                            <li class="col-xs"><a href="index.php?cv=true&contact=true">Contact</a></li>
+                            <li class="col-xs"><a href="index.php?played=true&contact=true">Contact</a></li>
                         </ul>
                     </nav>
                 </div>

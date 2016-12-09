@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <?php include "partials/head.php"; ?>
 
 <?php
@@ -12,7 +11,6 @@ if (isset($_GET['cv']) && isset($_GET['contact']))  {
   $class ="brdr-black contact-go";
 }
 ?>
-
 <body class="<?php echo $class;?>">
 
 <!-- Hi There, welcome to my CV page

@@ -1504,6 +1504,8 @@ body input[type="email"] {
 
 h1 {
   font-size: 3em;
+  font-weight: 700;
+  font-style: italic;
 }
 
 h2 {
@@ -1513,10 +1515,16 @@ h2 {
 h3 {
   font-size: 1.5em;
   margin: 1rem 0 1.25rem;
+  font-weight: 700;
 }
 
 h4 {
   font-size: 1.25em;
+  font-weight: 700;
+}
+
+h5 {
+  font-weight: 700;
 }
 
 .wrap {
@@ -1549,6 +1557,7 @@ h4 {
 
 #hero {
   position: absolute;
+  font-style: normal;
   bottom: 0;
   left: 50.75%;
   -webkit-transform: translateX(-50%);
@@ -1679,6 +1688,7 @@ nav ul li {
 #logo h1 {
   font-family: "Alfa Slab One", cursive;
   font-size: 2em;
+  font-style: normal;
   line-height: 0.95em;
   color: #fff;
   margin-top: 2.25em;

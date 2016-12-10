@@ -687,13 +687,15 @@ h3.col-header {
             margin-top: 3.5rem;
         }
     }
-    .portfolio-entry {
-        padding: 0 2rem;
-        .entry-info {
-            max-width: auto;
+   
+
+        .portfolio-entry {
+            padding: 0 2rem;
+            .entry-info {
+                max-width: 100%;
+            }
         }
-    }
-} //mq
+   } //mq
 // MS size ~Breakpoint
 @media only screen and (min-width: 64em) {
     .masthead {

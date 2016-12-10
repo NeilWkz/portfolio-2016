@@ -2160,7 +2160,7 @@ h3.col-header {
     padding: 0 2rem;
   }
   .portfolio-entry .entry-info {
-    max-width: auto;
+    max-width: 100%;
   }
 }
 

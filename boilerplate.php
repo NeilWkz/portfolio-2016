@@ -19,7 +19,7 @@
                 <div class="col-xs-12 col-sm-6 col-sm-offset-2 co middle">
                     <nav>
                         <ul class="row between-xs">
-                           <!--  <li class="col-xs"><a href="portfolio.php">Portfolio</a></li> -->
+                            <li class="col-xs"><a href="portfolio.php">Portfolio</a></li>
                             <li class="col-xs"><a href="cv.php">Curriculum Vitae</a></li>
                             <li class="col-xs"><a href="index.php?played=1&contact=1">Contact</a></li>
                         </ul>
@@ -32,10 +32,10 @@
     </header>
 
     <main class="content">
-    <article>
+    <section>
         <div class="wrap container-fluid">
         </div> <!-- /wrap container-fluid -->
-        </article>
+        </section>
     </main>
 
 <?php include "partials/footer.php"; ?>

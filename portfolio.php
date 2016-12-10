@@ -50,7 +50,7 @@
                          <p>
                              A custom wordpress site with ajax video gallery, and preloaded GIF rollovers.
                          </p>
-                         <a href="http://www.werumble.com/"></a>
+                         <a class="button" href="http://www.werumble.com/">View Case Study</a>
                      </div>
                      <!-- /.entry-info -->
                  </article>
@@ -65,7 +65,7 @@
                          <p>
                              At enim sequor utilitatem. Sed erat aequius Triarium aliquid de dissensione nostra iudicare.  
                          </p>
-                         <a href="#"></a>
+                         <a class="button" href="#">View Case Study</a>
                      </div>
                      <!-- /.entry-info -->
                  </article>
@@ -82,7 +82,7 @@
                          <p>
                              A custom wordpress site with ajax video gallery, and preloaded GIF rollovers.
                          </p>
-                         <a href="http://www.werumble.com/"></a>
+                         <a class="button" href="http://www.werumble.com/">View Case Study</a>
                      </div>
                      <!-- /.entry-info -->
                  </article>
@@ -97,7 +97,7 @@
                          <p>
                              At enim sequor utilitatem. Sed erat aequius Triarium aliquid de dissensione nostra iudicare.  
                          </p>
-                         <a href="#"></a>
+                         <a class="button" href="#">View Case Study</a>
                      </div>
                      <!-- /.entry-info -->
                  </article>

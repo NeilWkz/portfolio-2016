@@ -537,7 +537,10 @@ h3.col-header {
         margin: 0 auto;
         font-size: 1.25em;
     }
-    .button {
+    
+} //portfolio-entry
+
+.button.sml-arrow {
         background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='275.8' height='284.9' viewBox='0 0 275.8 284.9' style='enable-background:new 0 0 275.8 284.9;'%3E %3Cstyle%3E .st0%7Bfill:%23FFFFFF;%7D %3C/style%3E %3Cpath class='st0' d='M163.3 149c1.9-1.9 2.9-4.1 2.9-6.6s-.9-4.7-2.9-6.6l-133-133C28.4.9 26.2 0 23.7 0S19 1 17.1 2.8L2.9 17.1C.9 19 0 21.2 0 23.7s.9 4.7 2.9 6.6l112.2 112.2L2.9 254.7C1 256.6 0 258.8 0 261.3s.9 4.7 2.9 6.6l14.3 14.3c1.9 1.9 4.1 2.9 6.6 2.9s4.7-1 6.6-2.9L163.3 149z'/%3E %3Cpath class='st0' d='M112.5 17.1c-1.9 1.9-2.9 4.1-2.9 6.6s.9 4.7 2.9 6.6l112.2 112.2-112.2 112.2c-1.9 1.9-2.9 4.1-2.9 6.6s.9 4.7 2.9 6.6l14.3 14.3c1.9 1.9 4.1 2.9 6.6 2.9s4.7-1 6.6-2.9l133-133c1.9-1.9 2.9-4.1 2.9-6.6s-1-4.7-2.9-6.6L139.9 2.8C138 .9 135.8 0 133.3 0s-4.7 1-6.6 2.8l-14.2 14.3z'/%3E %3C/svg%3E");
         background-repeat: no-repeat;
         background-position: 92% center;
@@ -551,7 +554,37 @@ h3.col-header {
 
         }
     }
-} //portfolio-entry
+.case-study {
+    font-size: 1.6em;
+    line-height: 1.8em;
+    h1 {
+        font-size: 3rem;
+    }
+    ul {
+            list-style:none;
+            padding-left: 1rem;
+        li {
+            
+            color: $grey;
+            position: relative;
+            padding-left: 1.75rem;
+            &:before {
+                content: " ";
+                width: 7px;
+                height: 7px;
+                background: #fff;
+                position: absolute;
+                left: 0;
+                top: 1.25rem;
+
+            }
+        }
+    } //ul
+    .button {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    } //.case-study
 // SM size ~Breakpoint
 @media only screen and (min-width: 48em) {
     header {

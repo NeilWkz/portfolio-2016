@@ -37,8 +37,9 @@
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1">
                 <h1>Rumble</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mollis pharetra venenatis. Nulla vulputate, mauris ut euismod elementum, odio massa fermentum justo</p>
-                <h4>Video Showcase</h4>
+                <p>A custom wordpress site with ajax video gallery, and preloaded GIF rollovers.</p>
+                <a href="" class="button sml-arrow">View Site</a>
+                
             </div>
             <!-- /.col-sm-6 -->
             <div class="col-xs-12 col-sm-6 col-md-5">
@@ -50,18 +51,16 @@
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1">
                 <h4>Summary</h4>
-                <p>Donec ut lacinia tellus. Aliquam id ante commodo, bibendum lectus id, gravida diam. Curabitur egestas orci mi, eu congue eros venenatis a. Nullam eget purus sed ipsum luctus vestibulum ac eu mauris.</p>
-                <p>Pellentesque porta nisi a magna posuere, sed tincidunt erat mollis. Nunc in dapibus velit. Praesent pretium sit amet dui sed vehicula.</p>
+                <p>The company required a responsive and easy-to-use way to showcase their video portfolio. Built to the clients custom design, the site uses takes an adaptive approach to serving video content, serving a lightbox video gallery to desktop users and standard embeded vimeo player to mobile devices.  </p>
             </div>
             <!-- /.col-sm-6 -->
             <div class="col-xs-12 col-sm-6 col-md-5">
                 <h4>Features</h4>
                 <ul>
-                    <li>Lorem Ipsum</li>
-                    <li>Lorem Ipsum</li>
-                    <li>Lorem Ipsum</li>
-                    <li>Lorem Ipsum</li>
-                    <li>Lorem Ipsum</li>
+                    <li>Custom Homepage Slider</li>
+                    <li>Masonary layout Portfolio Gallery with preloaded GIF Rollovers</li>
+                    <li>AJAX Video Gallery</li>
+                    <li>Instagram Intergration</li>
                 </ul>
                 
             </div>

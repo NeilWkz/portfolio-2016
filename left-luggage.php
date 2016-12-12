@@ -59,7 +59,7 @@
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-5 ">
                 <h4>Summary:</h4>
-                <p>Our ongoing client the Excess Baggage company needed to refresh their booking process, with a responsive refresh. Built to the design specification of their in-house team, I built a front end atop of a Symfony2 booking system, using the Kunstmann CMS bundle.</p>
+                <p>Our ongoing client the Excess Baggage company needed to refresh their booking process, with a responsive refresh. Built to the design specification of their in-house team, I built the front end atop of a Symfony2 booking system, using the Kunstmann CMS bundle.</p>
             </div>
             <!-- /.col-sm-6 -->
             <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1">

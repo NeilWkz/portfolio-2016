@@ -76,13 +76,13 @@
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1">
                  <article class="portfolio-entry">
-                     <img src="http://lorempixel.com/360/440" />
+                     <img src="images/portfolio/bag-wrap/bag-wrap-teaser.jpg" />
                      <div class="entry-info">
-                         <h3>Rumble Films</h3>
+                         <h3>Bag Wrap</h3>
                          <p>
-                             A custom wordpress site with ajax video gallery, and preloaded GIF rollovers.
+                             A Responsive Marketing site to promote Secure Luggage Bag Wrapping Services at Airports and Railways stations nationwide.
                          </p>
-                         <a class="button sml-arrow" href="http://www.werumble.com/">View Case Study</a>
+                         <a class="button sml-arrow" href="http://bag-wrap.dev.vgd.uk.com/">Visit Site</a>
                      </div>
                      <!-- /.entry-info -->
                  </article>
@@ -91,13 +91,13 @@
             <!-- /.col-sm-6 col-md-5 col-md-offset-1 -->
             <div class="col-xs-12 col-sm-6 col-md-5">
                  <article class="portfolio-entry">
-                     <img src="images/portfolio/left-baggage/portfolio-teaser.jpg" />
+                     <img src="images/portfolio/asa-business/asa-teaser.jpg" />
                      <div class="entry-info">
-                         <h3>Left Luggage</h3>
+                         <h3>Asa Business Consultancy</h3>
                          <p>
-                             A responsive site to take reservations for left luggage services at train stations &amp; airports nationwide.   
+                             A responsive  marketing site to promote Asa Business Consultancy, and detail their extensive services.  
                          </p>
-                         <a class="button sml-arrow" href="left-luggage.php">View Case Study</a>
+                         <a class="button sml-arrow" href="http://www.asabusiness.co.uk/">Visit Site</a>
                      </div>
                      <!-- /.entry-info -->
                  </article>
@@ -105,6 +105,13 @@
             </div>
             <!-- /.col-sm-6 col-md-5 -->
         </div><!-- /row -->
+        <div class="row">
+            <div class="col-sm-12 col-md-10 col-md-offset-1">
+                <h3>More Coming Soon...</h3>
+            </div>
+            <!-- /.col-sm-12 col-md-10 col-md-offset-1 -->
+        </div>
+        <!-- /.row -->
         </div> <!-- /wrap container-fluid -->
         </article>
     </main>

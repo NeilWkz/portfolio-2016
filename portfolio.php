@@ -59,13 +59,13 @@
             <!-- /.col-sm-6 col-md-5 col-md-offset-1 -->
             <div class="col-xs-12 col-sm-6 col-md-5">
                  <article class="portfolio-entry">
-                     <img src="http://lorempixel.com/360/440" />
+                     <img src="images/portfolio/left-baggage/portfolio-teaser.jpg" />
                      <div class="entry-info">
                          <h3>Left Luggage</h3>
                          <p>
-                             At enim sequor utilitatem. Sed erat aequius Triarium aliquid de dissensione nostra iudicare.  
+                             A responsive site to take reservations for left luggage services at train stations &amp; airports nationwide.   
                          </p>
-                         <a class="button sml-arrow" href="#">View Case Study</a>
+                         <a class="button sml-arrow" href="left-luggage.php">View Case Study</a>
                      </div>
                      <!-- /.entry-info -->
                  </article>
@@ -91,13 +91,13 @@
             <!-- /.col-sm-6 col-md-5 col-md-offset-1 -->
             <div class="col-xs-12 col-sm-6 col-md-5">
                  <article class="portfolio-entry">
-                     <img src="http://lorempixel.com/360/440" />
+                     <img src="images/portfolio/left-baggage/portfolio-teaser.jpg" />
                      <div class="entry-info">
                          <h3>Left Luggage</h3>
                          <p>
-                             At enim sequor utilitatem. Sed erat aequius Triarium aliquid de dissensione nostra iudicare.  
+                             A responsive site to take reservations for left luggage services at train stations &amp; airports nationwide.   
                          </p>
-                         <a class="button sml-arrow" href="#">View Case Study</a>
+                         <a class="button sml-arrow" href="left-luggage.php">View Case Study</a>
                      </div>
                      <!-- /.entry-info -->
                  </article>

@@ -586,8 +586,18 @@ h3.col-header {
     .button {
         padding-top: 0;
         padding-bottom: 0;
+        margin-bottom: 2rem;
+        display: block;
+
     }
     } //.case-study
+
+    .hero {
+        img {
+            width: 100%;
+        }
+
+    }
 // SM size ~Breakpoint
 @media only screen and (min-width: 48em) {
     header {
@@ -766,6 +776,11 @@ h3.col-header {
     }
     .portfolio-entry {
         padding: 0 3rem;
+    }
+    .case-study {
+        .button {
+            display: inline-block;
+        }
     }
 } //mq
 // LG size ~Breakpoint

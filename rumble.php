@@ -45,7 +45,7 @@
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-5 ">
                 <h1>Rumble</h1>
-                <p>A custom wordpress site with ajax video gallery, and preloaded GIF rollovers.</p>
+                <p>A custom Wordpress site with AJAX video gallery, and preloaded GIF rollovers.</p>
                 <a href="http://www.werumble.com" class="button sml-arrow">View Site</a>
                 
             </div>
@@ -59,7 +59,7 @@
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-5 ">
                 <h4>Summary:</h4>
-                <p>The company required a responsive and easy-to-use way to showcase their video portfolio. Built to the clients custom design, the site uses takes an adaptive approach to serving video content, serving a lightbox video gallery to desktop users and standard embeded vimeo player to mobile devices.  </p>
+                <p>The company required a responsive and easy to update way to showcase their video portfolio. Built to the clients custom design, the site uses takes an adaptive approach to serving video content; a lightbox video gallery to desktop users and standard embeded vimeo player to mobile devices.  </p>
             </div>
             <!-- /.col-sm-6 -->
             <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1">
@@ -77,7 +77,7 @@
         <!-- /.row -->
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-5 ">
-              <h4>Built with help from:</h4>
+              <h4>Frontend built with help from:</h4>
                 <ul>
                     <li>Cycle2</li>
                     <li>Isotope</li>

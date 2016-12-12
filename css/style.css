@@ -2065,6 +2065,12 @@ h3.col-header {
 .case-study .button {
   padding-top: 0;
   padding-bottom: 0;
+  margin-bottom: 2rem;
+  display: block;
+}
+
+.hero img {
+  width: 100%;
 }
 
 @media only screen and (min-width: 48em) {
@@ -2231,6 +2237,9 @@ h3.col-header {
   }
   .portfolio-entry {
     padding: 0 3rem;
+  }
+  .case-study .button {
+    display: inline-block;
   }
 }
 

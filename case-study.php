@@ -31,8 +31,11 @@
         <div class="brdr-box"></div>
     </header>
 
-    <main class="content">
+    <main class="content with-masthead">
     <section class="case-study">
+    <div class="masthead">
+        <img src="images/portfolio/rumble/rumble-directors-md.jpg" alt="The Rumble Website on Macbook Pro, Ipad and Iphone">
+    </div>
         <div class="wrap container-fluid">
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1">

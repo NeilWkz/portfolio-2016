@@ -37,15 +37,16 @@
     <picture>
 
   <source media="(min-width: 48em)"
-          srcset="images/portfolio/left-baggage/left-luggage-home-md.jpg">
-        <img src="images/portfolio/left-baggage/left-luggage-home.jpg" alt="The Left Luggage Site on Macbook Pro, Ipad and Iphone">
+          srcset="/images/portfolio/asa-business/asa-home-md.jpg">
+        <img src="/images/portfolio/asa-business/asa-home.jpg" alt="The Asa Business Consultancy Website on Macbook Pro, Ipad and Iphone">
     </picture>
     </div>
         <div class="wrap container-fluid">
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-5 ">
-                <h1>Left Luggage</h1>
-                <p>A responsive site to take reservations for left luggage services at train stations &amp; airports nationwide.</p>
+                <h1>Asa Business Consultancy</h1>
+                <p>A responsive site to promote Asa Business Consultancy.</p>
+                <a href="http://www.asabusiness.co.uk/" class="button sml-arrow">View Site</a>
               
                 
             </div>

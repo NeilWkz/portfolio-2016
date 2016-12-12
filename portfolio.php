@@ -63,7 +63,7 @@
                      <div class="entry-info">
                          <h3>Left Luggage</h3>
                          <p>
-                             A responsive site to take reservations for left luggage services at train stations &amp; airports nationwide.   
+                             A booking site to take reservations for left luggage services at train stations &amp; airports nationwide.   
                          </p>
                          <a class="button sml-arrow" href="left-luggage.php">View Case Study</a>
                      </div>

@@ -557,6 +557,9 @@ h3.col-header {
 .case-study {
     font-size: 1.6em;
     line-height: 1.8em;
+    .row {
+        padding: 1rem 0;
+    }
     h1 {
         font-size: 3rem;
     }
@@ -708,6 +711,10 @@ h3.col-header {
     }
     .content {
         margin-top: 3em;
+    }
+    main.content.with-hero {
+        margin-top: 0;
+
     }
     .print {
         display: block;

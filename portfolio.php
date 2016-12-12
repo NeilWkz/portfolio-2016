@@ -44,13 +44,13 @@
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1">
                  <article class="portfolio-entry">
-                     <img src="http://lorempixel.com/360/440" />
+                     <img src="images/portfolio/rumble/portfolio-teaser.jpg" />
                      <div class="entry-info">
                          <h3>Rumble Films</h3>
                          <p>
                              A custom wordpress site with ajax video gallery, and preloaded GIF rollovers.
                          </p>
-                         <a class="button sml-arrow" href="http://www.werumble.com/">View Case Study</a>
+                         <a class="button sml-arrow" href="rumble.php">View Case Study</a>
                      </div>
                      <!-- /.entry-info -->
                  </article>

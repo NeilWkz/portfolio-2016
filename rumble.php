@@ -43,33 +43,52 @@
     </div>
         <div class="wrap container-fluid">
         <div class="row">
-            <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1">
+            <div class="col-xs-12 col-sm-6 col-md-5 ">
                 <h1>Rumble</h1>
                 <p>A custom wordpress site with ajax video gallery, and preloaded GIF rollovers.</p>
-                <a href="" class="button sml-arrow">View Site</a>
+                <a href="http://www.werumble.com" class="button sml-arrow">View Site</a>
                 
             </div>
             <!-- /.col-sm-6 -->
-            <div class="col-xs-12 col-sm-6 col-md-5">
-                <img src="http://lorempixel.com/1000/700">
+            <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1">
+                <img src="images/portfolio/rumble/video-gallery.jpg">
             </div>
             <!-- /.col-sm-6 -->
         </div>
         <!-- /.row -->
         <div class="row">
-            <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1">
-                <h4>Summary</h4>
+            <div class="col-xs-12 col-sm-6 col-md-5 ">
+                <h4>Summary:</h4>
                 <p>The company required a responsive and easy-to-use way to showcase their video portfolio. Built to the clients custom design, the site uses takes an adaptive approach to serving video content, serving a lightbox video gallery to desktop users and standard embeded vimeo player to mobile devices.  </p>
             </div>
             <!-- /.col-sm-6 -->
-            <div class="col-xs-12 col-sm-6 col-md-5">
-                <h4>Features</h4>
+            <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1">
+                <h4>Features:</h4>
                 <ul>
                     <li>Custom Homepage Slider</li>
                     <li>Masonary layout Portfolio Gallery with preloaded GIF Rollovers</li>
                     <li>AJAX Video Gallery</li>
                     <li>Instagram Intergration</li>
                 </ul>
+                
+            </div>
+            <!-- /.col-sm-6 -->
+        </div>
+        <!-- /.row -->
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-5 ">
+              <h4>Built with help from:</h4>
+                <ul>
+                    <li>Cycle2</li>
+                    <li>Isotope</li>
+                    <li>Images Loaded</li>
+                    <li>Thickbox</li>
+                </ul>
+               
+            </div>
+            <!-- /.col-sm-6 -->
+            <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1">
+              <img src="images/portfolio/rumble/news-page.jpg" alt="">
                 
             </div>
             <!-- /.col-sm-6 -->

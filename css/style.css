@@ -2033,6 +2033,10 @@ h3.col-header {
   line-height: 1.8em;
 }
 
+.case-study .row {
+  padding: 1rem 0;
+}
+
 .case-study h1 {
   font-size: 3rem;
 }
@@ -2181,6 +2185,9 @@ h3.col-header {
   }
   .content {
     margin-top: 3em;
+  }
+  main.content.with-hero {
+    margin-top: 0;
   }
   .print {
     display: block;

@@ -80,7 +80,8 @@
                      <div class="entry-info">
                          <h3>Bag Wrap</h3>
                          <p>
-                             A Responsive Marketing site to promote Secure Luggage Bag Wrapping Services at Airports and Railways stations nationwide.
+                            A Responsive Marketing site to promote Secure Luggage Bag Wrapping at Airports &amp; Rail stations.
+
                          </p>
                          <a class="button sml-arrow" href="http://bag-wrap.dev.vgd.uk.com/">Visit Site</a>
                      </div>
@@ -106,8 +107,8 @@
             <!-- /.col-sm-6 col-md-5 -->
         </div><!-- /row -->
         <div class="row">
-            <div class="col-sm-12 col-md-10 col-md-offset-1">
-                <h3>More Coming Soon...</h3>
+            <div class="col-sm-12 col-md-10 col-md-offset-1 col-xs-12">
+                <h3 class="text-center-heading">More Coming Soon...</h3>
             </div>
             <!-- /.col-sm-12 col-md-10 col-md-offset-1 -->
         </div>

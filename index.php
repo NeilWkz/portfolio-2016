@@ -34,7 +34,7 @@ I'm available for Hire!
 
 Thanks for checking out my source code, this page is pretty simple, a couple of things to note:
 * I used a flexbox grid, just for fun. This is not the kind of code I would run on a commercial site, I'd likely import a float-based grid like bootstrap or foundation (at least until CSS Grid is supported in 2017)
-* At launch I'm supporting IE Edge, only I've dropped support for IE10 back, I could have added all the polyfills for SVG and modernized out the VP unit but since I whipped this site up in my spare time I figured ¯\_(ツ)_/¯ I'll add better support going forward.
+* At launch I'm supporting IE Edge only, I've dropped support for IE10 back, I could have added all the polyfills for SVG and modernized out the VP unit but since I whipped this site up in my spare time I figured ¯\_(ツ)_/¯ I'll add better support going forward.
 
 Check out my CV and if you're hiring Frontend developer's Contact Me.
 
@@ -96,7 +96,7 @@ Check out my CV and if you're hiring Frontend developer's Contact Me.
             I'm a London Based Frontend Developer &amp; Designer with 10 years industry experience, I'm obsessed with CSS, and using it to create beautiful web experiences on any screen you can imagine.</p>
             <p>I love challenging designs, and working to create unique performant interfaces that serve my client's user needs.</p>
             <p><em>Want to know more?</em>
-            <a href="cv.html">Check out my CV</a>, or get in touch via the contact form</p>
+            <a href="cv.php">Check out my CV</a>, or get in touch via the contact form</p>
 
 
 

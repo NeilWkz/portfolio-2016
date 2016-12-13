@@ -1502,6 +1502,11 @@ body input[type="email"] {
   /* Gecko Browsers */
 }
 
+.text-center-heading {
+  text-align: center;
+  display: block;
+}
+
 h1 {
   font-size: 3em;
   font-weight: 700;

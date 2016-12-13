@@ -28,6 +28,7 @@ Temporary Items
 
 # IGNORE DEVELOPMENT TOOL FILES #
 prepros.cfg
+sftp-config.json
 *.sublime-project
 *.sublime-workspace
 *.komodoproject

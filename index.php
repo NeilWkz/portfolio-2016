@@ -84,7 +84,16 @@ Check out my CV and if you're hiring Frontend developer's Contact Me.
 <div class="holder">
      <a id="who" href="#about" class="button who">Who?</a>     
 </div>
-             
+
+<div class="socials">
+  <ul class="row between-xs">
+    <li class="col-xs"><a class="twit" href="https://twitter.com/MendTheFrontend">Twitter</a></li>
+    <li class="col-xs"><a class="ghub" href="https://github.com/NeilWkz">Github</a></li>
+    <li class="col-xs"><a class="codepen" href="http://codepen.io/NeilWkz/">Codepen</a></li>
+    <li class="col-xs"><a class="stack-overflow" href="http://stackoverflow.com/users/2970095/neilwkz">Stack Overflow</a></li>
+  </ul>
+</div>  
+        
 
 </section>
 <main class="with-mast content">

@@ -32,7 +32,7 @@
     </header>
 
     <main class="content with-hero">
-    <section class="case-study">
+    <article class="case-study">
     <div class="hero">
     <picture>
 
@@ -95,7 +95,7 @@
         </div>
         <!-- /.row -->
         </div> <!-- /wrap container-fluid -->
-        </section>
+        </article>
     </main>
 
 <?php include "partials/footer.php"; ?>

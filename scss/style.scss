@@ -562,6 +562,10 @@ h3.col-header {
 .case-study {
     font-size: 1.6em;
     line-height: 1.8em;
+
+    .hero {
+        margin-top: 0.6rem;
+    }
     .row {
         padding: 1rem 0;
     }
@@ -595,6 +599,7 @@ h3.col-header {
         display: block;
 
     }
+
     } //.case-study
 
     .hero {

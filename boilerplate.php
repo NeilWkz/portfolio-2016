@@ -35,7 +35,7 @@
     <section>
         <div class="wrap container-fluid">
         </div> <!-- /wrap container-fluid -->
-        </section>
+        </article>
     </main>
 
 <?php include "partials/footer.php"; ?>

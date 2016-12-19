@@ -1735,6 +1735,10 @@ nav ul li {
   font-family: "Alfa Slab One", cursive;
 }
 
+#hero .r, #hero .f, #hero .d {
+  padding-right: 5px;
+}
+
 #hero .n {
   letter-spacing: -3px;
   margin-right: 16px;

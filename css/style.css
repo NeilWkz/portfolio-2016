@@ -3648,3 +3648,9 @@ label.error {
   height: auto;
   padding: 6px;
 }
+
+.no-backgroundcliptext #hero.marquee.bg h1 {
+  /* Fallback: assume this color ON TOP of image */
+  color: #00DB5D;
+  background-image: none;
+}
